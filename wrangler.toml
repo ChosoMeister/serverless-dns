@@ -83,7 +83,7 @@ CF_LOGPUSH_R2_PATH = "qlog/"
 # [secrets]
 # GW_IP4 = ""
 # GW_IP6 = ""
-# CF_ACCOUNT_ID = ""
+CF_ACCOUNT_ID = "ac1a277ad509b27559f7b116f0b97694"
 # CF_API_TOKEN = ""
 # CF_LOGPUSH_R2_SECRET_KEY = ""
 # CF_LOGPUSH_R2_ACCESS_KEY = ""
